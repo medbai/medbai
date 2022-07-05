@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baiba Mohamed</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer from Morocco.</h3>
 
-### :man_technologist : About Me :
+### :man_technologist: About Me :
 I am a student engineer in 3nd year web and mobile computing engineering option Web Intelligence in ENSIAS Morocco.
 - 🌱 I’m currently learning **Spring Framework and Angular**
 
